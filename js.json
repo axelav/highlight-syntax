@@ -11,7 +11,7 @@
     "Int32Array","Int8Array","Intl","Map","Promise","Proxy","Reflect","Set",
     "Symbol","Uint16Array","Uint32Array","Uint8Array","Uint8ClampedArray",
     "WeakMap","WeakSet"],
-  "kw2":["function","var"],
+  "kw2":["function","var","const","let"],
   "rules": [
     ["area comment","^/\\*([^*]|\\*(?!/))*\\*/$"],
     ["area comment continue","^/\\*([^*]|\\*(?!/))*\\*?$"],
