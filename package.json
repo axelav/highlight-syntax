@@ -1,7 +1,7 @@
 {
-  "name": "highlight-syntax",
+  "name": "highlight-syntax-es6",
   "version": "3.0.2",
-  "description": "highlight source code syntax with html",
+  "description": "fork of substack's highlight-syntax package that includes es6 features - highlight source code syntax with html",
   "main": "index.js",
   "bin": {
     "highlight-syntax": "bin/cmd.js"
@@ -37,10 +37,11 @@
   "license": "BSD",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/substack/highlight-syntax.git"
+
+    "url": "git+https://github.com/axelav/highlight-syntax-es6.git"
   },
   "bugs": {
-    "url": "https://github.com/substack/highlight-syntax/issues"
+    "url": "https://github.com/axelav/highlight-syntax-es6/issues"
   },
-  "homepage": "https://github.com/substack/highlight-syntax#readme"
+  "homepage": "https://github.com/axelav/highlight-syntax-es6#readme"
 }
